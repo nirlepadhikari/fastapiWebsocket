@@ -1,0 +1,6 @@
+venv
+.venv
+/venv
+.deta
+/deta
+__pycache__
